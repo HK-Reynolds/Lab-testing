@@ -1,6 +1,7 @@
 git config --global user.name "Halee Reynolds"
 git config --global user.email hkr2@students.uwf.edu
 git config --global color.ui auto
+System.out.println("HaleeKR:ReynoldsHalee");
 
 int a;
 int b;
