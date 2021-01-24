@@ -1,4 +1,4 @@
-+git config --global user.name "Halee Reynolds"
+git config --global user.name "Halee Reynolds"
 git config --global user.email hkr2@students.uwf.edu
 
 HaleeKR:ReynoldsHalee
